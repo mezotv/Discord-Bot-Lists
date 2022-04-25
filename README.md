@@ -14,7 +14,6 @@ This list features every really every botlist out there that is working as of no
 | Void Bots |https://voidbots.net/ | https://discord.com/invite/suH3VeUBXk |
 | Discords |https://discords.com/bots/ | https://discord.com/invite/4g9NHYNbTS |
 | Botlist |https://botlist.me/ | https://discord.com/invite/hdK4ya5eVv |
-| Botlist |https://botlist.me/ | https://discord.com/invite/hdK4ya5eVv |
 | Discord Bots |https://discord.bots.gg/ | https://discord.com/invite/0cDvIgU2voWn4BaD |
 | FlowBots |https://www.flowbots.net/ | https://discord.com/invite/PcTPChkA4s |
 | Infinity Bot list |https://infinitybots.gg/ | https://discord.com/invite/KBCRuBKrHe |
