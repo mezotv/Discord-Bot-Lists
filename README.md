@@ -36,3 +36,9 @@ This list features every really every botlist out there that is working as of no
 | Atlas Community | [Website](https://atlascord.com) | [Discord Invite](https://discord.com/invite/uEPnUwUTgR) |
 
 ## If you got a botlist that you want to add here simply open a pull request and it will be here as soon as possible!
+
+
+## Maintainers
+
+- [@Mezo](https://github.com/mezotv)
+- [@DForGetFulSkyBro](https://github.com/forgetfulskybro)
