@@ -29,7 +29,6 @@ This list features every really every botlist out there that is working as of no
 | Discord Labs | [Website](https://bots.discordlabs.org) | [Discord Invite](https://discord.com/invite/7zahaXHfAW) |
 | Vortex List | [Website](https://vortexlist.xyz) | [Discord Invite](https://discord.com/invite/4VW92pJBQ3) |
 | Discord Things | [Website](https://discordthings.com) | [Discord Invite](https://discord.com/invite/zYRD24uJFX) |
-| Rovel Stars | [Website](https://rovelstars.com) | [Discord Invite](https://discord.com/invite/GPaFY2YcjK) |
 | Cyclone Botlist | [Website](https://cyclonebotlist.xyz) | [Discord Invite](https://discord.com/invite/sjBpWgYb42) |
 | Fates List | [Website](https://fateslist.xyz) | [Discord Invite](https://discord.com/invite/RDwaa3Jr3s) |
 | Milrato | [Website](https://milrato-botlist.eu) | [Discord Invite](https://discord.com/invite/eaDFVef9XU) |
