@@ -31,7 +31,6 @@ This list features every really every botlist out there that is working as of no
 | Discord Things | [Website](https://discordthings.com) | [Discord Invite](https://discord.com/invite/zYRD24uJFX) |
 | Cyclone Botlist | [Website](https://cyclonebotlist.xyz) | [Discord Invite](https://discord.com/invite/sjBpWgYb42) |
 | Fates List | [Website](https://fateslist.xyz) | [Discord Invite](https://discord.com/invite/RDwaa3Jr3s) |
-| Milrato | [Website](https://milrato-botlist.eu) | [Discord Invite](https://discord.com/invite/eaDFVef9XU) |
 | Atlas Community | [Website](https://atlascord.com) | [Discord Invite](https://discord.com/invite/uEPnUwUTgR) |
 
 ## If you got a botlist that you want to add here simply open a pull request and it will be here as soon as possible!
