@@ -19,7 +19,7 @@ This list features every really every botlist out there that is working as of no
 | Infinity Bot list | [Website](https://infinitybots.gg) | [Discord Invite](https://discord.com/invite/KBCRuBKrHe) |
 | Stellar Bot list | [Website](https://stellarbotlist.com) | [Discord Invite](https://discord.com/invite/hAYNuDRMwy) |
 | Discord Bot Universe | [Website](https://dbulist.xyz) | [Discord Invite](https://discord.gg/invite/JkGpKYm7p4) |
-| Rovel Stars | [Website](https://rovelstars.com) | [Discord Invite](https://discord.com/invite/E6PhZK4tU9) |
+| Rovel Discord List | [Website](https://rovelstars.com) | [Discord Invite](https://discord.com/invite/E6PhZK4tU9) |
 | Blist | [Website](https://blist.xyz) | [Discord Invite](https://discord.com/invite/PK8J6nzQMR) |
 | Radar Bot Directory |  [Website](https://radarbotdirectory.xyz)| [Discord Invite](https://discord.com/invite/rKagYEUP5G) |
 | Const Eagle | [Website](https://consteagle.com)| [Discord Invite](https://discord.com/invite/vXTXQPsErP) |
