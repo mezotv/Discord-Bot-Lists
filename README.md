@@ -22,7 +22,7 @@ This list features every really every botlist out there that is working as of no
 | Const Eagle | [Website](https://consteagle.com)| [Discord Invite](https://discord.com/invite/vXTXQPsErP) | 🟢 |
 | Bladelist | [Website](https://bladelist.gg) | [Discord Invite](https://discord.com/invite/SJN3AZgFvY) | 🟢 |
 | Discordz | [Website](https://discordz.gg) | [Discord Invite](https://discord.com/invite/5Z4PC6gnZ2) | 🔴 |
-| Discord Labs | [Website](https://bots.discordlabs.org) | [Discord Invite](https://discord.com/invite/7zahaXHfAW) | 🟠 |
+| Discord Labs | [Website](https://bots.discordlabs.org) | [Discord Invite](https://discord.com/invite/7zahaXHfAW) | 🟢 |
 | Vortex List | [Website](https://vortexlist.xyz) | [Discord Invite](https://discord.com/invite/4VW92pJBQ3) | 🟢 |
 | Discord Things | [Website](https://discordthings.com) | [Discord Invite](https://discord.com/invite/zYRD24uJFX) | 🟢 |
 | Cyclone Botlist | [Website](https://cyclonebotlist.xyz) | [Discord Invite](https://discord.com/invite/sjBpWgYb42) | 🟢 |
