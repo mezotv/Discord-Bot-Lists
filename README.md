@@ -7,7 +7,7 @@ This list features every really every botlist out there that is working as of no
 | Name              | Website                         | Discord                    | Status  |
 | ----------------- | ------------------------------- | ---------------------------| --------| 
 | Top.gg | [Website](https://top.gg) | [Discord Invite](https://discord.com/invite/EYHTgJX) | 🟢 |
-| Discord Space | [Website](https://discordlist.space) | [Discord Invite](https://discord.com/invite/GjEWBQE) | 🟢 |
+| Discord Space | [Website](https://discordlist.space) | [Discord Invite](https://discord.com/invite/GjEWBQE) | 🔴 |
 | Discord bot list | [Website](https://discordbotlist.com) | [Discord Invite](https://discord.com/invite/EYHTgJX) | 🔴 |
 | discord-botlist.eu | [Website](https://discord-botlist.eu) | [Discord Invite](https://discord.com/invite/EYHTgJX) | 🟢 |
 | Void Bots | [Website](https://voidbots.net) | [Discord Invite](https://discord.com/invite/suH3VeUBXk) | 🟢 |
