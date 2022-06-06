@@ -27,6 +27,7 @@ This list features every really every botlist out there that is working as of no
 | Discord Things | [Website](https://discordthings.com) | [Discord Invite](https://discord.com/invite/zYRD24uJFX) | 🟢 |
 | Fates List | [Website](https://fateslist.xyz) | [Discord Invite](https://discord.com/invite/RDwaa3Jr3s) | 🟢 |
 | Discord Developer Studios | [Website](https://botlist.dscdevstudios.xyz/) | [Discord Invite](https://discord.com/invite/dmcQjADSyM) | 🟢 |
+| Discord List | [Website](https://discordlist.gg/) | [Discord Invite](https://discord.com/invite/XbuJ6VH) | 🟢 |
 
 ## If you got a botlist that you want to add here simply open a pull request and it will be here as soon as possible!
 
