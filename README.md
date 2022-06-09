@@ -26,7 +26,6 @@ This list features every really every botlist out there that is working as of no
 | Vortex List | [Website](https://vortexlist.xyz) | [Discord Invite](https://discord.com/invite/4VW92pJBQ3) | 🟢 |
 | Discord Things | [Website](https://discordthings.com) | [Discord Invite](https://discord.com/invite/zYRD24uJFX) | 🟢 |
 | Fates List | [Website](https://fateslist.xyz) | [Discord Invite](https://discord.com/invite/RDwaa3Jr3s) | 🟢 |
-| Discord Developer Studios | [Website](https://botlist.dscdevstudios.xyz/) | [Discord Invite](https://discord.com/invite/dmcQjADSyM) | 🟢 |
 | Discord List | [Website](https://discordlist.gg/) | [Discord Invite](https://discord.com/invite/XbuJ6VH) | 🟢 |
 | Tropical list| [Website](https://tropicalbotlist.xyz/) | [Discord Invite](https://discord.com/invite/e36tT3eQx9) | 🟢 |
 
