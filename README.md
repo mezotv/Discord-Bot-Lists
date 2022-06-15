@@ -9,7 +9,7 @@ This list features every really every botlist out there that is working as of no
 | Top.gg | [Website](https://top.gg) | [Discord Invite](https://discord.com/invite/EYHTgJX) | 🟢 |
 | Discord Space | [Website](https://discordlist.space) | [Discord Invite](https://discord.com/invite/GjEWBQE) | 🟢 |
 | Discord bot list | [Website](https://discordbotlist.com) | [Discord Invite](https://discord.com/invite/EYHTgJX) | 🟢 |
-| discord-botlist.eu | [Website](https://discord-botlist.eu) | [Discord Invite](https://discord.com/invite/EYHTgJX) | 🟢 |
+| Discord-botlist.eu | [Website](https://discord-botlist.eu) | [Discord Invite](https://discord.com/invite/EYHTgJX) | 🟢 |
 | Void Bots | [Website](https://voidbots.net) | [Discord Invite](https://discord.com/invite/suH3VeUBXk) | 🟢 |
 | Discords | [Website](https://discords.com/bots) | [Discord Invite](https://discord.com/invite/4g9NHYNbTS) | 🟢 |
 | Botlist | [Website](https://botlist.me) | [Discord Invite](https://discord.com/invite/hdK4ya5eVv) | 🟢 |
@@ -27,7 +27,10 @@ This list features every really every botlist out there that is working as of no
 | Discord Things | [Website](https://discordthings.com) | [Discord Invite](https://discord.com/invite/zYRD24uJFX) | 🟢 |
 | Fates List | [Website](https://fateslist.xyz) | [Discord Invite](https://discord.com/invite/RDwaa3Jr3s) | 🟢 |
 | Discord List | [Website](https://discordlist.gg/) | [Discord Invite](https://discord.com/invite/XbuJ6VH) | 🟢 |
-| Tropical list| [Website](https://tropicalbotlist.xyz/) | [Discord Invite](https://discord.com/invite/e36tT3eQx9) | 🟢 |
+| Tropical list | [Website](https://tropicalbotlist.xyz/) | [Discord Invite](https://discord.com/invite/e36tT3eQx9) | 🟢 |
+| Discord Services | [Website](https://discordservices.net) | [Discord Invite](https://discord.com/invite/a5h4HBNM8g) | 🟢 |
+| Botlist.me | [Website](https://botlist.me) | [Discord Invite](https://discord.com/invite/e7fUQmpnRY) | 🟢 |
+| Electro List | [Website](https://www.edbl.xyz) | [Discord Invite](https://discord.com/invite/xSyXqAw) | 🟢 |
 
 ## If you got a botlist that you want to add here simply open a pull request and it will be here as soon as possible!
 
