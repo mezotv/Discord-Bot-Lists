@@ -14,17 +14,17 @@ This list features every really every botlist out there that is working as of no
 | Discords | [Website](https://discords.com/bots) | [Discord Invite](https://discord.com/invite/4g9NHYNbTS) | 🟢 |
 | Botlist | [Website](https://botlist.me) | [Discord Invite](https://discord.com/invite/hdK4ya5eVv) | 🟢 |
 | Discord Bots | [Website](https://discord.bots.gg) | [Discord Invite](https://discord.com/invite/0cDvIgU2voWn4BaD) | 🟢 |
-| Infinity Bot list | [Website](https://infinitybots.gg) | [Discord Invite](https://discord.com/invite/KBCRuBKrHe) | 🟢 |
+| Infinity Bot list | [Website](https://infinitybots.gg) | [Discord Invite](https://discord.com/invite/KBCRuBKrHe) | 🔴 |
 | Stellar Bot list | [Website](https://stellarbotlist.com) | [Discord Invite](https://discord.com/invite/hAYNuDRMwy) | 🟢 |
-| Rovel Discord List | [Website](https://rovelstars.com) | [Discord Invite](https://discord.com/invite/E6PhZK4tU9) | 🟢 |
+| Rovel Discord List | [Website](https://rovelstars.com) | [Discord Invite](https://discord.com/invite/E6PhZK4tU9) | 🔴 |
 | Blist | [Website](https://blist.xyz) | [Discord Invite](https://discord.com/invite/PK8J6nzQMR) | 🟢 |
 | Radar Bot Directory |  [Website](https://radarbotdirectory.xyz)| [Discord Invite](https://discord.com/invite/rKagYEUP5G) | 🟢 |
 | Const Eagle | [Website](https://consteagle.com)| [Discord Invite](https://discord.com/invite/vXTXQPsErP) | 🟢 |
 | Bladelist | [Website](https://bladelist.gg) | [Discord Invite](https://discord.com/invite/SJN3AZgFvY) | 🟢 |
-| Discordz | [Website](https://discordz.gg) | [Discord Invite](https://discord.com/invite/5Z4PC6gnZ2) | 🟢 |
+| Discordz | [Website](https://discordz.gg) | [Discord Invite](https://discord.com/invite/5Z4PC6gnZ2) | 🔴 |
 | Discord Labs | [Website](https://bots.discordlabs.org) | [Discord Invite](https://discord.com/invite/7zahaXHfAW) | 🟢 |
-| Vortex List | [Website](https://vortexlist.xyz) | [Discord Invite](https://discord.com/invite/4VW92pJBQ3) | 🟢 |
-| Discord Things | [Website](https://discordthings.com) | [Discord Invite](https://discord.com/invite/zYRD24uJFX) | 🟢 |
+| Vortex List | [Website](https://vortexlist.xyz) | [Discord Invite](https://discord.com/invite/4VW92pJBQ3) | 🔴 |
+| Discord Things | [Website](https://discordthings.com) | [Discord Invite](https://discord.com/invite/zYRD24uJFX) | 🔴 |
 | Fates List | [Website](https://fateslist.xyz) | [Discord Invite](https://discord.com/invite/RDwaa3Jr3s) | 🟢 |
 | Discord List | [Website](https://discordlist.gg/) | [Discord Invite](https://discord.com/invite/XbuJ6VH) | 🟢 |
 | Tropical list | [Website](https://tropicalbotlist.xyz/) | [Discord Invite](https://discord.com/invite/e36tT3eQx9) | 🟢 |
