@@ -31,7 +31,7 @@ This list features every really every botlist out there that is working as of no
 | Botlist.me | [Website](https://botlist.me) | [Discord Invite](https://discord.com/invite/e7fUQmpnRY) | 🟢 |
 | Electro List | [Website](https://www.edbl.xyz) | [Discord Invite](https://discord.com/invite/xSyXqAw) | 🟢 |
 | Bot.gg | [Website](https://bot.gg) | [Discord Invite](https://discord.com/invite/autocode) | 🟢 |
-| Discord Labs | [Website](https://bots.discordlabs.org/) | [Discord Invite](https://discord.com/invite/rmPNvNJ) | 🟠 |
+| Discord Labs | [Website](https://bots.discordlabs.org/) | [Discord Invite](https://discord.com/invite/rmPNvNJ) | 🟢 |
 | Topic List | [Website](https://vcodez.xyz) | [Discord Invite](https://discord.gg/gtaFBJrNqH) | 🟢 |
 
 ## If you got a botlist that you want to add here simply open a pull request and it will be here as soon as possible!
