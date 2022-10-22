@@ -10,7 +10,7 @@ This list features every botlist out there that is working as of now. This repo 
 | Top.gg | [Website](https://top.gg) | [Discord Invite](https://discord.com/invite/EYHTgJX) | 15ms | 🟢 |
 | Discord bot list | [Website](https://discordbotlist.com) | [Discord Invite](https://discord.com/invite/EYHTgJX) | 6ms | 🟢 |
 | Discord-botlist.eu | [Website](https://discord-botlist.eu) | [Discord Invite](https://discord.com/invite/EYHTgJX) | 5ms | 🟢 |
-| Void Bots | [Website](https://voidbots.net) | [Discord Invite](https://discord.com/invite/suH3VeUBXk) | 2ms | 🟢 |
+| Void Bots | [Website](https://voidbots.net) | [Discord Invite](https://discord.com/invite/suH3VeUBXk) | 200ms | 🟢 |
 | Discords | [Website](https://discords.com/bots) | [Discord Invite](https://discord.com/invite/4g9NHYNbTS) | 11ms | 🟢 |
 | Botlist | [Website](https://botlist.me) | [Discord Invite](https://discord.com/invite/hdK4ya5eVv) | 4ms | 🟢 |
 | Discord Bots | [Website](https://discord.bots.gg) | [Discord Invite](https://discord.com/invite/0cDvIgU2voWn4BaD) | 6ms | 🟢 |
