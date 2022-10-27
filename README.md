@@ -26,7 +26,7 @@ This list features every botlist out there that is working as of now. This repo 
 | Discord List | [Website](https://discordlist.gg/) | [Discord Invite](https://discord.com/invite/XbuJ6VH) | 4ms | 🟢 |
 | Discord Services | [Website](https://discordservices.net) | [Discord Invite](https://discord.com/invite/a5h4HBNM8g) | 5ms | 🟢 |
 | Discord Labs | [Website](https://bots.discordlabs.org/) | [Discord Invite](https://discord.com/invite/rmPNvNJ) | 5ms | 🟢 |
-| Vipercord | [Website](https://vipercord.com/) | [Discord Invite](https://discord.com/invite/Fp8CnqyWW8) | 2ms | 🟢 |
+| Vipercord | [Website](https://vipercord.com/) | [Discord Invite](https://discord.com/invite/Fp8CnqyWW8) | 2ms | 🔴 |
 
 ## If you got a botlist that you want to add here simply open a pull request and it will be here as soon as possible!
 
