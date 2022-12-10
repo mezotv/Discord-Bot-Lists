@@ -16,6 +16,7 @@ This list features every botlist out there that is working as of now. This repo 
 | Discord Bots | [Website](https://discord.bots.gg) | [Discord Invite](https://discord.com/invite/0cDvIgU2voWn4BaD) | 5ms | 🟢 |
 | Infinity Bot list | [Website](https://infinitybots.gg) | [Discord Invite](https://discord.com/invite/KBCRuBKrHe) | 2ms | 🟢 |
 | Stellar Bot list | [Website](https://stellarbotlist.com) | [Discord Invite](https://discord.com/invite/hAYNuDRMwy) | 2ms | 🟢 |
+| VitalList | [Website](https://vitallist.xyz) | [Discord Invite](https://discord.com/invite/HrWe2BwVbd) | 2ms | 🟢 |
 | Rovel Discord List | [Website](https://rovelstars.com) | [Discord Invite](https://discord.com/invite/E6PhZK4tU9) | 2ms | 🟢 |
 | Blist | [Website](https://blist.xyz) | [Discord Invite](https://discord.com/invite/PK8J6nzQMR) | 2ms | 🟢 |
 | Radar Cord |  [Website](https://radarcord.net/)| [Discord Invite](https://discord.com/invite/rKagYEUP5G) | 2ms | 🟢 |
