@@ -40,7 +40,7 @@ This list features every botlist out there that is working as of now. This repo 
 | Motion Development | [Website](https://motiondevelopment.top) | NONE | 32ms | 🟢 |
 | VCodes | [Website](https://vcodes.xyz/) | [Discord Invite](https://discord.com/invite/8ZBYQAS4Q9) | 2ms | 🟢 |
 | Wonder Bot List | [Website](https://wonderbotlist.com/) | [Discord Invite](https://discord.com/invite/yaS9krd) | 15ms | 🟢 |
-| Vitallist | [Website](https://vitallist.xyz/) | [Discord Invite](https://discord.com/invite//HrWe2BwVbd) | 3ms | 🟢 |
+| Vitallist | [Website]() | [Discord Invite](https://discord.com/invite//HrWe2BwVbd) | 3ms | 🔴 |
 | Universe List | [Website](https://universe-list.xyz/) | [Discord Invite](https://discord.com/invite//Bx2zEaWD47) | 88ms | 🟢 |
 
 
