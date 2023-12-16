@@ -7,6 +7,7 @@ This list features every botlist out there that is working as of now. This repo 
 
 | Name              | Website                         | Discord                 | Ping | Status |
 | ----------------- | ------------------------------- | ---------------------------| --------| ------|
+| Wumpus.store | [Website](https://wumpus.store/) | [Discord Invite](https://discord.com/invite/D6XuGkKxk3) | 1ms | 🟢 |
 | Top.gg | [Website](https://top.gg) | [Discord Invite](https://discord.com/invite/EYHTgJX) | 3ms | 🟢 |
 | Discord bot list | [Website](https://discordbotlist.com) | [Discord Invite](https://discord.com/invite/EYHTgJX) | 6ms | 🟢 |
 | Discord-botlist.eu | [Website](https://discord-botlist.eu) | [Discord Invite](https://discord.com/invite/EYHTgJX) | 2ms | 🟢 |
